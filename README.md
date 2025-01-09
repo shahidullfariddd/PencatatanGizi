@@ -11,5 +11,9 @@ Dibangun menggunakan Android Studio.
 2. Buka di Android Studio.
 3. Jalankan di emulator atau perangkat fisik.
 
+📂 Link Repository
+Temukan repository lengkapnya di:
+Pencatatan Gizi
+
 ## Kontributor
 - Shahidul Farid 22343072
